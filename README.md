@@ -36,3 +36,5 @@ I'm a Aspiring Full Stack Developer and I have a keen interest in Machine Learni
 ## 🛠 Skills
 Javascript, HTML, CSS, Nodejs, Express, React, MongoDb, Mongoose, AWS, Java.
 
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=hrjha97)
+
