@@ -38,3 +38,5 @@ Javascript, HTML, CSS, Nodejs, Express, React, MongoDb, Mongoose, AWS, Java.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=hrjha97)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hrjha97)](https://git.io/streak-stats)
+
