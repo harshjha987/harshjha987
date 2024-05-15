@@ -1,5 +1,5 @@
 
-# Hi, I'm Harsh Ranjan Jha! 👋                                                                                                                     ![](https://komarev.com/ghpvc/?username=your-hrjha97)
+# Hi, I'm Harsh Ranjan Jha! 👋                                                                                                                     ![](https://komarev.com/ghpvc/?username=your-harshjha987)
 
 
 
@@ -36,8 +36,8 @@ I'm a Aspiring Full Stack Developer and I have a keen interest in Machine Learni
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,firebase,git,github,java,nextjs,nodejs,postman,redux,tailwind,c)](https://skillicons.dev)
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=hrjha97)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrjha97) ![GitHub Streak](https://streak-stats.demolab.com/?user=hrjha97)]
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshjha987)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshjha987) ![GitHub Streak](https://streak-stats.demolab.com/?user=harshjha987)]
 
 
 
