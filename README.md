@@ -38,6 +38,6 @@ I'm a Aspiring Full Stack Developer and I have a keen interest in Machine Learni
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshjha987)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshjha987) 
-<p><img align="center" src=https://streak-stats.demolab.com/?user=harshjha987(https://git.io/streak-stats)" alt="harshjha987" /></p>
+<p><img align="center" src=https://streak-stats.demolab.com/?user=harshjha987" alt="harshjha987" /></p>
 
 
