@@ -1,43 +1,43 @@
+# Hi, I'm Harsh Ranjan Jha 👋
 
-# Hi, I'm Harsh Ranjan Jha! 👋                                                                                                                     ![](https://komarev.com/ghpvc/?username=your-harshjha987)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-ranjan-jha-b16698238/)
+[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thattallboy987)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@harshjha987)
+![Profile Views](https://komarev.com/ghpvc/?username=harshjha987&style=flat-square&color=blue)
 
+---
 
+### 🚀 About Me
+Backend & Cloud/DevOps enthusiast focused on building reliable, scalable systems and understanding infrastructure under the hood.
 
+* 🔭 **Specializing in:** Backend Engineering (Java, Spring Boot, Microservices) & Infrastructure (Linux, Docker, Networking).
+* ⚙️ **Currently Learning:** Kubernetes, CI/CD automation, and SRE principles.
+* ✍️ **Writing:** I document real-world debugging workflows and Linux deep-dives on [Hashnode](https://hashnode.com/@harshjha987).
+* 📫 **Reach me:** `jha.harsh837@gmail.com`
+* ⚡ **Fun Fact:** When not debugging terminal logs, I write poems.
 
-## 🚀 About Me
-I'm a Aspiring Full Stack Developer and I have a keen interest in Machine Learning.
+---
 
+### 🛠 Tech Stack
 
+**Languages & Backend:**  
+[![Backend Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgres,c)](https://skillicons.dev)
 
+**DevOps, Cloud & Systems:**  
+[![DevOps Skills](https://skillicons.dev/icons?i=linux,bash,docker,nginx,aws,git,github)](https://skillicons.dev)
 
+**Frontend & Tools:**  
+[![Tools & Frontend](https://skillicons.dev/icons?i=ts,react,tailwind,postman)](https://skillicons.dev)
 
+---
 
-🧠 I'm currently focussing more towards learning Backend Development and and Cloud Computing.
+### 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshjha987&show_icons=true&theme=tokyonight&hide_border=true" alt="Harsh's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjha987&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-
-🤔 I'm looking for help with Backend development and Open Source deployment.
-
-
-
-📫 How to reach me jha.harsh837@gmail.com
-
-😄 Pronouns he/him
-
-⚡️ Fun fact I love to write poems.
-
-
-## 🔗 Connect With Me.
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-ranjan-jha-b16698238/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thattallboy987)
-
-
-## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,firebase,git,github,java,nextjs,nodejs,postman,redux,tailwind,c,spring,mysql,aws,)](https://skillicons.dev)
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshjha987)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshjha987) 
-<p><img align="center" src=https://streak-stats.demolab.com/?user=harshjha987" alt="harshjha987" /></p>
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=harshjha987&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
