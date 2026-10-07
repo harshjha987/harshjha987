@@ -1,8 +1,9 @@
 # Hi, I'm Harsh Ranjan Jha 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-hrjhaa.me-000000?style=flat-square&logo=firefox&logoColor=white)](https://hrjhaa.me)
+[![Blogs](https://img.shields.io/badge/Blog-hrjhaa.me%2Fblogs-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hrjhaa.me/blogs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-ranjan-jha-b16698238/)
 [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thattallboy987)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@harshjha987)
 ![Profile Views](https://komarev.com/ghpvc/?username=harshjha987&style=flat-square&color=blue)
 
 ---
@@ -12,7 +13,8 @@ Backend & Cloud/DevOps enthusiast focused on building reliable, scalable systems
 
 * 🔭 **Specializing in:** Backend Engineering (Java, Spring Boot, Microservices) & Infrastructure (Linux, Docker, Networking).
 * ⚙️ **Currently Learning:** Kubernetes, CI/CD automation, and SRE principles.
-* ✍️ **Writing:** I document real-world debugging workflows and Linux deep-dives on [Hashnode](https://hashnode.com/@harshjha987).
+* 🌐 **Portfolio:** Check out my work at [hrjhaa.me](https://hrjhaa.me).
+* ✍️ **Writing:** I document real-world debugging workflows and Linux deep-dives on [hrjhaa.me/blogs](https://hrjhaa.me/blogs).
 * 📫 **Reach me:** `jha.harsh837@gmail.com`
 * ⚡ **Fun Fact:** When not debugging terminal logs, I write poems.
 
